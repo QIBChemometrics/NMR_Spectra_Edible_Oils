@@ -7,4 +7,4 @@ The dataset comprises the collections of 'Olive' and 'Argan' oils from 'Batch 2,
 
 Further details of argan oil samples given in "High-throughput screening of argan oil composition and authenticity using benchtop 1 H NMR"
 Gunning Y, Jackson AJ, Colmer J, Taous F, Philo M, Brignall RM, El Ghali T, Defernez M, Kemsley EK.
-Magnetic Resonance in Chemistry. 2020 Dec;58(12):1177-1186. doi: 10.1002/mrc.5023
+Magnetic Resonance in Chemistry. 2020 Dec;58(12):1177-1186. https://pubmed.ncbi.nlm.nih.gov/32220087/
